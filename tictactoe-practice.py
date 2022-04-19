@@ -5,7 +5,7 @@ for i in range(10):
   print(randrange(8))
 #this prints 10 random numbers from range 0 to 8, 8 not included
 '''
-1
+
 
   
 board=[[3*j+i+1 for i in range(3)] for j in range(3)]
