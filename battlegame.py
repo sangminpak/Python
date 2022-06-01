@@ -80,7 +80,7 @@ while play:
     if end.lower() == "y":
         play = True
     else:
-        break
+        play = False
 
 if character.lower() == "x":
     print("Goodbye.")
